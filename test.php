@@ -1,2 +1,1 @@
-class aaa;
-class bbb;
+aaa;
